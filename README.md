@@ -1,6 +1,6 @@
 # YFA.Cool
 
-## YFAC Farm Core Contracs.
+## YFAC Farm Core Contracts.
 
 More details: https://yfa.cool
 
